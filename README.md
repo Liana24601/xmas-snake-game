@@ -1,3 +1,3 @@
 # xmas-snake-game
 
-made a xmas themed snake game, enjoy :)
+i made a xmas themed snake game, enjoy :)
