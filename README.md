@@ -2,6 +2,8 @@
 
 i made a Christmas themed snake game, enjoy :)
 
+link: https://liana24601.github.io/xmas-snake-game/
+
 # instructions
 - arrow keys to start
 
