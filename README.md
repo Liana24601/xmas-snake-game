@@ -1,6 +1,6 @@
 # xmas-snake-game
 
-by putiting my own spin on normal snake game tutorials, i made a Christmas themed snake game
+by putting my own spin on normal snake game tutorials, i made a Christmas themed snake game
 
 enjoy :)
 
