@@ -1,6 +1,8 @@
 # xmas-snake-game
 
-i made a Christmas themed snake game, enjoy :)
+by putiting my own spin on normal snake game tutorials, i made a Christmas themed snake game
+
+enjoy :)
 
 link: https://liana24601.github.io/xmas-snake-game/
 
